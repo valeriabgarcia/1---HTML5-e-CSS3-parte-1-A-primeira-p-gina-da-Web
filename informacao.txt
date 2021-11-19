@@ -1,0 +1,3 @@
+No CSS você pode colocar toda as informação sobre formatação num arquivo externo (fonte, cor, tamanho, etc). 
+Assim você fica com um arquivo HTML apenas com informação (que fica muito mais simples, organizado e rápido de se escrever) e mantém toda a formatação num arquivo externo
+
